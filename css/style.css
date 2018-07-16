@@ -1,0 +1,206 @@
+body{
+    font-family: Poppins;
+    background-color: #EDEFE5;
+}
+#banner {
+    max-height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+.top {
+    font-family: Poppins;
+    font-size: 20px;
+    color: #832A27;
+    text-align: center;
+    padding: 1px;
+    margin: 4px;
+}
+
+.navigation ul{
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+
+.navigation li{
+    font-weight: 100;
+    font-size: 20px;
+    font-style: uppercase;
+    font-family: Poppins;
+    color: #284667;
+    background-color: #CDEAE8;
+    letter-spacing: 2px;
+    Padding-top: 20px;
+    text-align: center;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+}
+
+a{
+    color: #284667;
+    text-decoration: none;
+}
+
+.navigation a:hover{
+    background-color: #284667;
+    color: #CDEAE8;
+    opacity: 1;
+    height: 50px;
+}
+
+header{
+    background-color: #CDEAE8;
+    border-bottom: 1px solid #CDEAE8;
+    width: 100%;
+}
+
+h1{
+    color: #832A27;
+    margin: 20px 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    font-family: Poppins;
+    font-size: 20px;
+    color: #832A27;
+    padding: 1px;
+    margin: 5px 50px;
+}
+
+.HTnavigation ul{
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+
+.HTnavigation li{
+    font-size: 20px;
+    font-style: uppercase;
+    font-family: Poppins;
+    Padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.HTa{
+    background-color: #832A27;
+    border: 1px solid #832A27;
+    border-radius: 3px;
+    margin: 10px;
+    padding: 14px;
+    color: white;
+    text-decoration: none;
+    min-width: 60px;
+}
+
+.myLi {
+    margin: 8px;
+}
+
+.La a:hover{
+    color:#284667;
+}
+
+#IMGhome{
+    height: 50%;
+    width: 50%;
+    margin: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.Contact{
+    color: #284667;
+    margin: 1px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: normal;
+}
+
+.OBBContact{
+    text-align: center;
+}
+
+.La{
+    background-color: #832A27;
+    border: 1px solid #832A27;
+    border-radius: 3px;
+    margin: 10px;
+    padding: 14px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+h2{
+    color: #284667;
+    margin: 20px 50px;
+    font-size: 30px; 
+}
+
+.locallistshops p{
+    font-size: 18px;
+    color: #284667;
+}
+
+.locallistshops li{
+    color: #832A27;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.locallistshops a{
+    color: #832A27;
+    padding-bottom: 30px; 
+    text-decoration: underline;
+}
+
+#HTimage{
+    display: inline-block;
+    max-width: 450px;
+    height: auto;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.HTvideo{
+    margin: 20px;
+}
+
+.BackNavigation ul{
+    margin-top: 30px;
+    padding: 0;
+    text-align: Left;
+}
+
+.BackNavigation li{
+    font-size: 20px;
+    font-style: uppercase;
+    font-family: Poppins;
+    Padding-top: 100px;
+    text-align: center;
+    display: inline;
+}
+
+.BNa{
+    background-color: #832A27;
+    border: 1px solid #832A27;
+    border-radius: 3px;
+    margin: 10px;
+    padding: 14px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+iframe{
+    margin-left: 50px;
+    padding: 10px;
+}
